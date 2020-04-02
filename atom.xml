@@ -5,12 +5,12 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://yukangming.github.io/"/>
   <updated>2020-04-01T09:38:36.600Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://yukangming.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>yukangming</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>my first article</title>
-    <link href="http://yoursite.com/2020/04/01/my-first-article/"/>
-    <id>http://yoursite.com/2020/04/01/my-first-article/</id>
+    <link href="http://yukangming.github.io/2020/04/01/my-first-article/"/>
+    <id>http://yukangming.github.io/2020/04/01/my-first-article/</id>
     <published>2020-04-01T09:38:36.000Z</published>
     <updated>2020-04-01T09:38:36.600Z</updated>
     
@@ -45,8 +45,8 @@
   
   <entry>
     <title>article_title</title>
-    <link href="http://yoursite.com/2020/04/01/article-title/"/>
-    <id>http://yoursite.com/2020/04/01/article-title/</id>
+    <link href="http://yukangming.github.io/2020/04/01/article-title/"/>
+    <id>http://yukangming.github.io/2020/04/01/article-title/</id>
     <published>2020-04-01T05:34:31.357Z</published>
     <updated>2020-04-01T05:34:31.359Z</updated>
     
@@ -71,8 +71,8 @@
   
   <entry>
     <title>article title</title>
-    <link href="http://yoursite.com/2020/04/01/article-title/"/>
-    <id>http://yoursite.com/2020/04/01/article-title/</id>
+    <link href="http://yukangming.github.io/2020/04/01/article-title/"/>
+    <id>http://yukangming.github.io/2020/04/01/article-title/</id>
     <published>2020-04-01T05:30:54.000Z</published>
     <updated>2020-04-01T05:30:54.902Z</updated>
     
@@ -98,8 +98,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/04/01/hello-world/"/>
-    <id>http://yoursite.com/2020/04/01/hello-world/</id>
+    <link href="http://yukangming.github.io/2020/04/01/hello-world/"/>
+    <id>http://yukangming.github.io/2020/04/01/hello-world/</id>
     <published>2020-04-01T05:14:49.730Z</published>
     <updated>2020-04-01T05:14:49.730Z</updated>
     
